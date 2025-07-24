@@ -1,0 +1,302 @@
+[
+    {
+        "Question": "what was the hqla in the q4 of Citigroup in 2015",
+        "Answer": "378.5 billion dollars",
+        "gpt_rating_explanation": "The question requires factual retrieval of a specific financial metric (HQLA) for Citigroup in a particular quarter, which involves temporal alignment but does not necessitate calculations or information from multiple documents.",
+        "level_rating": 1
+    },
+    {
+        "Question": "as a result of the sales of certain non-core towers and other assets what was the recorded net losses of American Tower in 2008",
+        "Answer": "10.5 million dollars",
+        "gpt_rating_explanation": "The question requires factual retrieval regarding specific financial information (net losses of American Tower in 2008) but does not involve any calculations or multiple documents.",
+        "level_rating": 1
+    },
+    {
+        "Question": "what was the port call costsin of Royal Caribbean Cruises in 2012",
+        "Answer": "459.8 million dollars",
+        "gpt_rating_explanation": "The question requires factual retrieval of historical data regarding port call costs for Royal Caribbean Cruises in 2012, but does not involve complex calculations or the need for multiple documents.",
+        "level_rating": 1
+    },
+    {
+        "Question": "what is the aggregate rent expense of American Tower Corp in 2014?",
+        "Answer": "655.0 million dollars",
+        "gpt_rating_explanation": "The question requires factual retrieval of specific data regarding American Tower Corp's rent expense for the year 2014, but does not necessitate any mathematical or complex calculations.",
+        "level_rating": 1
+    },
+    {
+        "Question": "what is the long-term component of BlackRock at 12/31/2011?",
+        "Answer": "593356 million dollars",
+        "gpt_rating_explanation": "The question requires factual retrieval regarding BlackRock's long-term component as of a specific date, which aligns with the need for temporal alignment. There are no mathematical or financial calculations involved, making it a relatively straightforward query.",
+        "level_rating": 1
+    },
+    {
+        "Question": "at december 31 , 2012 of The PNC Financial Services, what was the potential maximum exposure under the loss share arrangements?",
+        "Answer": "3.9 billion dollars",
+        "gpt_rating_explanation": "The question requires factual retrieval regarding a specific financial figure from a specific date, but does not involve any calculations or information from multiple sources.",
+        "level_rating": 1
+    },
+    {
+        "Question": "what is the total financial liabilities at fair value of Goldman Sachs in 2012?",
+        "Answer": "377677 million dollars",
+        "gpt_rating_explanation": "The question requires factual retrieval regarding the total financial liabilities at fair value for Goldman Sachs in a specific year (2012), which involves historical financial data. There is no need for mathematical calculations or the use of multiple documents.",
+        "level_rating": 1
+    },
+    {
+        "Question": "what was brazilian paper sales of International Paper Company in 2006?",
+        "Answer": "496 million dollars",
+        "gpt_rating_explanation": "The question requires factual retrieval about a specific historical data point (sales figures) and temporal alignment to the year 2006, but does not involve any calculations or complex analysis.",
+        "level_rating": 1
+    },
+    {
+        "Question": "what was brazilian paper sales of International Paper Company in 2005?",
+        "Answer": "465 million dollars",
+        "gpt_rating_explanation": "The question requires factual retrieval of historical sales data, specifically temporal alignment with the year 2005, but does not involve any calculations or complex financial concepts.",
+        "level_rating": 1
+    },
+    {
+        "Question": "what is the cashflow of Kellogg in 2006?",
+        "Answer": "957.4 million dollars",
+        "gpt_rating_explanation": "The question requires factual retrieval of Kellogg's cash flow data for the year 2006, without the need for calculations or multiple sources.",
+        "level_rating": 1
+    },
+    {
+        "Question": "From the perspective of 6 years ago, what percentage of total minimum lease payments of Dish Network are due in 2015?",
+        "Answer": "9.772%",
+        "gpt_rating_explanation": "The question requires retrieving historical financial data about Dish Network's lease payments, aligning it temporally to 2015, performing a percentage calculation to arrive at the answer, and it may require information from at least two documents (financial reports or lease agreements) for accurate figures and context.",
+        "level_rating": 2
+    },
+    {
+        "Question": "in 2011 what was the SL Green Realty Corp's percent of the change in the account balance at end of year",
+        "Answer": "6.75%",
+        "gpt_rating_explanation": "The question requires factual retrieval to find SL Green Realty Corp's account balance change in 2011, including temporal alignment to ensure the data is from the correct year. No mathematical or finance-specific calculations are needed.",
+        "level_rating": 2
+    },
+    {
+        "Question": "what was the value in thousands of unvested restricted stock and performance awards at the weighted-averagegrant-datefair value as of december 31 , 2018 of Global Payments?",
+        "Answer": "117624.84",
+        "gpt_rating_explanation": "The question requires factual retrieval regarding a specific company's financial data as of a particular date, along with complex finance domain-specific knowledge to interpret unvested restricted stock and performance awards. While it involves straightforward numerical data retrieval, understanding the context likely requires complex calculations related to share valuation.",
+        "level_rating": 2
+    },
+    {
+        "Question": "based on the cash dividends paid of the year, how many common stock shares were outstanding in 2007 Snap-on?",
+        "Answer": "58909091",
+        "gpt_rating_explanation": "The question requires factual retrieval of specific financial data for Snap-on in 2007 and involves simple mathematical calculations to possibly derive shares outstanding from dividends, but does not necessitate complex finance calculations or the use of multiple documents.",
+        "level_rating": 2
+    },
+    {
+        "Question": "what is the Entergy Corp's 2008 total value , in millions of dollars , of issuable long-term securities?",
+        "Answer": "1450",
+        "gpt_rating_explanation": "The question requires factual retrieval about Entergy Corp's long-term securities value from 2008, but does not involve complex calculations or references to multiple documents.",
+        "level_rating": 2
+    },
+    {
+        "Question": "for the capital framework of Goldman Sachs Group 8 years ago, what percent of the minimum supplementary leverage ratio consisted of a buffer?",
+        "Answer": "40%",
+        "gpt_rating_explanation": "The question requires factual retrieval regarding the capital framework of Goldman Sachs 8 years ago, specifically about the minimum supplementary leverage ratio and its buffer percentage. It also requires knowledge of financial concepts related to leverage ratios, which involves complex domain-specific understanding.",
+        "level_rating": 3
+    },
+    {
+        "Question": "in 2007 what was the 3M's ratio of the interest expense to the interest income",
+        "Answer": "1.59",
+        "gpt_rating_explanation": "The question requires factual retrieval of financial data from 2007, specifically about 3M's interest expense and income. It involves simple mathematical calculations to find the ratio between those two figures. However, it also requires some understanding of finance domain concepts to interpret the ratio correctly.",
+        "level_rating": 2
+    },
+    {
+        "Question": "what is the AON's decrease observed in the additions for tax positions of prior years as of 2018, in millions?",
+        "Answer": "2",
+        "gpt_rating_explanation": "The question requires factual retrieval regarding a specific financial metric (AON's decrease in tax positions) and temporal alignment to the year 2018. It does not involve any mathematical calculations or complex finance domain-specific calculations.",
+        "level_rating": 2
+    },
+    {
+        "Question": "In 2014 Global Payments, what is the total value of securities approved by security holders but net yer issued , ( in millions ) ?",
+        "Answer": "365.4",
+        "gpt_rating_explanation": "The question requires factual retrieval and temporal alignment to determine the approval status of securities in 2014. Additionally, it likely involves basic mathematical calculations related to securities, but does not suggest the need for complex financial domain specific calculations or information from multiple documents.",
+        "level_rating": 2
+    },
+    {
+        "Question": "what is the percent of our network route miles that is owned rather than operated on pursuant to trackage rights or leases in 2016 Union Pacific Corp",
+        "Answer": "81.2%",
+        "gpt_rating_explanation": "The question requires factual retrieval about a specific statistic for Union Pacific Corp in 2016 and does not involve mathematical calculations or complex financial analyses.",
+        "level_rating": 2
+    },
+    {
+        "Question": "What is the American Tower Corp's current ratio in 13 years ago?",
+        "Answer": 1.7923,
+        "gpt_rating_explanation": "The question only requires factual retrieval of the current ratio value from 13 years ago and correct temporal alignment to that time, without any calculations or additional documents.",
+        "level_rating": 3
+    },
+    {
+        "Question": "What is the DISH Network Corporation's current ratio in 14 years ago?",
+        "Answer": 1.7804,
+        "gpt_rating_explanation": "The question requires factual retrieval of a specific financial ratio from 14 years ago and proper temporal alignment, but no calculations or multiple document references are necessary.",
+        "level_rating": 3
+    },
+    {
+        "Question": "What is the American Tower Corp's current ratio in 2012?",
+        "Answer": 1.7923,
+        "gpt_rating_explanation": "The question requires simple factual retrieval (current ratio value) and temporal alignment (year 2012), with no calculations or multi-document information needed.",
+        "level_rating": 3
+    },
+    {
+        "Question": "What is the DISH Network Corporation's current ratio in 2011?",
+        "Answer": 1.7804,
+        "gpt_rating_explanation": "The question requires factual retrieval of DISH Network Corporation's financial data from 2011 and a simple mathematical calculation of the current ratio using current assets and current liabilities for that year.",
+        "level_rating": 3
+    },
+    {
+        "Question": "What is the International Paper Company's Operating Profit Margin of printing papers business in 2006?",
+        "Answer": 9.769119769,
+        "gpt_rating_explanation": "The question requires factual retrieval of specific financial data for International Paper Company's printing papers business in 2006 and a calculation of the Operating Profit Margin, which involves finance domain specific calculations beyond simple math.",
+        "level_rating": 3
+    },
+    {
+        "Question": "What is the International Paper Company's Operating Profit Margin of printing papers business in 2005?",
+        "Answer": 6.59693166,
+        "gpt_rating_explanation": "The question requires factual retrieval of International Paper Company's financial data for 2005, temporal alignment to the specific year, and a complex finance domain-specific calculation (Operating Profit Margin) likely derived from operating profit and revenue figures.",
+        "level_rating": 3
+    },
+    {
+        "Question": "What is the International Paper Company's Operating Profit Margin of printing papers business in 2004?",
+        "Answer": 7.119831815,
+        "gpt_rating_explanation": "The question requires factual retrieval of financial data for a specific business segment and year, along with performing a complex finance domain specific calculation (Operating Profit Margin). It involves simple mathematical calculations but relies on specialized financial metrics.",
+        "level_rating": 3
+    },
+    {
+        "Question": "What is the Air Products and Chemicals' Operating Profit Margin in 2016?",
+        "Answer": 26.7735375,
+        "gpt_rating_explanation": "The question requires factual retrieval of the company's financial data for 2016 and a simple mathematical calculation to derive the operating profit margin.",
+        "level_rating": 3
+    },
+    {
+        "Question": "What is the Air Products and Chemicals' Operating Profit Margin in 2015?",
+        "Answer": 21.88472888,
+        "gpt_rating_explanation": "The question requires factual retrieval of the operating profit margin for 2015 and involves simple mathematical calculation to compute the margin from financial data. It does not involve complex finance calculations or integration of information from multiple documents.",
+        "level_rating": 3
+    },
+    {
+        "Question": "What is the Air Products and Chemicals' Operating Profit Margin in 2014?",
+        "Answer": 18.69805075,
+        "gpt_rating_explanation": "The question requires factual retrieval (the operating profit margin) and temporal alignment (the year 2014). The answer involves a simple mathematical calculation (operating profit margin is typically operating profit divided by revenue). No complex finance-specific calculations or integration of multiple documents are needed.",
+        "level_rating": 3
+    },
+    {
+        "Question": "What is the difference of Operating Profit Margin between Air Products and Chemicals in 2016 and printing papers business of International Paper Company in 2006?",
+        "Answer": "17.00441774",
+        "gpt_rating_explanation": "The question requires factual retrieval of operating profit margin values for two companies in different years, temporal alignment of those data points, simple subtraction to find the difference, and understanding of operating profit margin as a finance-specific metric. However, it does not require information from multiple documents beyond these data points.",
+        "level_rating": 4
+    },
+    {
+        "Question": "What is the average of Operating Profit Margin between Air Products and Chemicals in 2016 and printing papers business of International Paper Company in 2005?",
+        "Answer": "16.68523458",
+        "gpt_rating_explanation": "The question requires factual retrieval of Operating Profit Margins for two distinct entities and years, temporal alignment of these data points, simple mathematical calculation to find the average, and understanding of finance domain-specific metric (Operating Profit Margin). However, it uses information from only one document or source, so it does not require combining multiple documents.",
+        "level_rating": 4
+    },
+    {
+        "Question": "What is the sum of Operating Profit Margin between Air Products and Chemicals in 2016 and printing papers business of International Paper Company in 2004?",
+        "Answer": "33.89336932",
+        "gpt_rating_explanation": "The question requires factual retrieval of specific financial metrics from different entities and years, temporal alignment of data points, and performing a simple summation calculation. It also involves understanding of finance domain terms like Operating Profit Margin, but the data appears to come from a single combined source rather than multiple documents.",
+        "level_rating": 4
+    },
+    {
+        "Question": "Which one's Operating Profit Margin is bigger between Air Products and Chemicals in 2014 and printing papers business of International Paper Company in 2006?",
+        "Answer": "Air Products and Chemicals",
+        "gpt_rating_explanation": "The question requires factual retrieval of operating profit margins for two companies in different years, temporal alignment of the data points (2014 vs 2006), simple comparison (mathematical), and an understanding of operating profit margin as a financial metric. However, it does not require information from multiple documents beyond these two data points or more complex multi-document synthesis.",
+        "level_rating": 4
+    },
+    {
+        "Question": "What is the difference of Operating Profit Margin between Air Products and Chemicals in 2015 and printing papers business of International Paper Company in 2006?",
+        "Answer": "12.11560911",
+        "gpt_rating_explanation": "The question requires factual retrieval of operating profit margin data for two different companies from two different years, followed by a simple subtraction calculation. It involves domain-specific understanding of operating profit margin but uses data presumably from a single or consolidated source, without needing to integrate multiple documents.",
+        "level_rating": 4
+    },
+    {
+        "Question": "What is the average of Operating Profit Margin between Air Products and Chemicals in 2015 and printing papers business of International Paper Company in 2005?",
+        "Answer": "14.24083027",
+        "gpt_rating_explanation": "The question requires factual retrieval of Operating Profit Margin data for two specific companies and years, temporal alignment to ensure correct years, and calculation of their average. It involves finance domain knowledge to understand Operating Profit Margin but does not require information from multiple documents or highly complex multi-document synthesis.",
+        "level_rating": 4
+    },
+    {
+        "Question": "What is the sum of Operating Profit Margin between Air Products and Chemicals in 2015 and printing papers business of International Paper Company in 2004?",
+        "Answer": "29.00456069",
+        "gpt_rating_explanation": "The question requires factual retrieval of Operating Profit Margin values for two specific entities and years, temporal alignment of these data points, and a simple mathematical addition of these two values. There are no complex finance domain calculations or multiple document syntheses involved.",
+        "level_rating": 4
+    },
+    {
+        "Question": "Which one's current ratio is bigger between American Tower Corp in 2012 and DISH Network Corporation in 2011?",
+        "Answer": "American Tower Corp",
+        "gpt_rating_explanation": "The question requires factual retrieval of current ratios for two companies in specific years and comparing them, which involves temporal alignment and simple comparative calculations.",
+        "level_rating": 4
+    },
+    {
+        "Question": "What is the average of current ratio between American Tower Corp in 2012 and DISH Network Corporation in 2011?",
+        "Answer": "1.786341177",
+        "gpt_rating_explanation": "The question requires factual retrieval of current ratios for two companies in specified years and a simple mathematical calculation (averaging the two values). There is no indication of complex finance domain calculations or the need to integrate information from multiple documents.",
+        "level_rating": 4
+    },
+    {
+        "Question": "What is the difference of current ratio between American Tower Corp in 2012 and DISH Network Corporation in a year before that?",
+        "Answer": "0.01185521735",
+        "gpt_rating_explanation": "The question requires factual retrieval of current ratios for two different companies in two consecutive years and simple mathematical calculation (difference). There is temporal alignment as the years must be correctly identified and matched. No complex finance domain-specific calculations or multiple document analysis are needed.",
+        "level_rating": 4
+    },
+    {
+        "Question": "What is the Goldman Sachs Group's Total Assets change from 2014 to 2016 multiplied by the average of current ratio between American Tower Corp in 2012 and DISH Network Corporation in 2011?",
+        "Answer": "48722.45 million",
+        "gpt_rating_explanation": "The question requires factual retrieval of total assets for Goldman Sachs Group for two different years (2014 and 2016) and current ratios for two different companies in different years, followed by simple mathematical calculations (change in total assets and average current ratio) and multiplication. It involves complex finance domain knowledge to interpret financial metrics but only from a single implied source or dataset.",
+        "level_rating": 5
+    },
+    {
+        "Question": "What is the Goldman Sachs Group's Total Assets change from 2013 to 2017 multiplied by the average of current ratio between American Tower Corp in 2012 and DISH Network Corporation in 2011?",
+        "Answer": "46296.6 million",
+        "gpt_rating_explanation": "The question requires factual retrieval of financial data (total assets for Goldman Sachs, current ratios for American Tower Corp and DISH Network Corp), temporal alignment of data from different years, simple mathematical calculations (change in total assets and averaging ratios), and domain-specific understanding of financial ratios and total assets. However, it involves information from a single combined source or dataset rather than multiple documents.",
+        "level_rating": 5
+    },
+    {
+        "Question": "What is the sum of Goldman Sachs Group's Total Assets from 2011 to 2014 divided by the average of Operating Profit Margin between Air Products and Chemicals in 2016 and printing papers business of International Paper Company in 2005?",
+        "Answer": "217529.28 million",
+        "gpt_rating_explanation": "The question requires factual retrieval of multiple financial data points across different years and companies, involves temporal alignment of these figures, simple mathematical calculations (sum and average, then division), and complex finance domain knowledge to identify and correctly interpret Total Assets, Operating Profit Margin for specific companies and years. Additionally, the data likely comes from at least two different financial documents or sources to cover all required information.",
+        "level_rating": 5
+    },
+    {
+        "Question": "What is the sum of Goldman Sachs Group's Total Assets from 2011 to 2014 multiplied by the average of Operating Profit Margin between Air Products and Chemicals in 2015 and printing papers business of International Paper Company in 2005?",
+        "Answer": "51687477.96 million",
+        "gpt_rating_explanation": "The question requires factual retrieval of specific financial data points across multiple years and entities, temporal alignment of those data points, simple mathematical calculations (sum and average), and complex finance domain understanding to correctly interpret Total Assets and Operating Profit Margin from different companies and years. However, it involves data from only two entities/documents, so it does not reach higher complexity levels.",
+        "level_rating": 5
+    },
+    {
+        "Question": "What is the Goldman Sachs Group's Total Assets change from 2014 to 2016 divided the difference of Operating Profit Margin between Air Products and Chemicals in 2016 and printing papers business of International Paper Company in 2006?",
+        "Answer": "1604 million",
+        "gpt_rating_explanation": "The question requires factual retrieval of financial data from multiple years and companies, temporal alignment of those data points, simple subtraction and division calculations, and domain-specific understanding of financial metrics like Total Assets and Operating Profit Margin. However, it involves data extraction from only two sources (Goldman Sachs and the companies mentioned for margins), so it does not reach the threshold of involving more than two documents.",
+        "level_rating": 5
+    },
+    {
+        "Question": "What is the difference in total assets for the financial sector company founded in the 1869 between 2013 and 2017?",
+        "Answer": "25917 million",
+        "gpt_rating_explanation": "The question requires factual retrieval of total assets for a specific company at two points in time (2013 and 2017), temporal alignment of those values, and a simple subtraction calculation to find the difference.",
+        "level_rating": 5
+    },
+    {
+        "Question": "What is the difference in revenue for the oldest transportation sector S&P500 company between 2013 and 2016?",
+        "Answer": "2022 million",
+        "gpt_rating_explanation": "The question requires factual retrieval of revenue data for the oldest transportation sector S&P 500 company from 2013 and 2016, temporal alignment between those years, and a simple mathematical calculation to find the difference. It does not require complex financial calculations or multiple document references.",
+        "level_rating": 4
+    },
+    {
+        "Question": "What is the Operating Profit Margin in 2015 for the process industries sector company founded in 1940s and headquartered in Pennsylvania?",
+        "Answer": 21.88472888,
+        "gpt_rating_explanation": "The question requires factual retrieval (operating profit margin for a specific company in 2015) and temporal alignment (the year 2015), but no calculations or use of multiple documents.",
+        "level_rating": 5
+    },
+    {
+        "Question": "What was the current ratio in 2012 for the financial sector company with a P/E ratio between 40 and 50 and a market cap exceeding 100 billion dollars now?",
+        "Answer": 1.7923,
+        "gpt_rating_explanation": "The question requires factual retrieval of company data (P/E ratio and market cap), temporal alignment to 2012, and a simple calculation to identify the current ratio. However, it does not require complex financial calculations or information synthesis from multiple documents.",
+        "level_rating": 5
+    },
+    {
+        "Question": "What is the Operating Profit Margin in 2005 for the printing papers business of the process industries sector company founded in 1890s and headquartered in Tennessee?",
+        "Answer": 6.59693166,
+        "gpt_rating_explanation": "The question requires factual retrieval (operating profit margin in 2005 for a specific business segment of a company) and temporal alignment (the year 2005). There are no calculations shown or needed beyond recalling the metric, and no evidence of needing multiple documents or complex financial domain calculations.",
+        "level_rating": 5
+    }
+]
